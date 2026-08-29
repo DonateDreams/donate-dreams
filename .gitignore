@@ -1,0 +1,12 @@
+node_modules/
+build/
+.env
+.env.local
+.env.*.local
+
+# Old development backups
+frontend/backupapp
+frontend/backupindex
+frontend/src/BACKUPS/
+frontend/src/desktop.ini
+frontend/src/BACKUPS/desktop.ini

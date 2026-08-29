@@ -1,0 +1,107 @@
+Effective Date: August 27, 2026
+
+⚠️ READ BEFORE SENDING CRYPTOCURRENCY
+
+Donate Dreams facilitates connections between people who wish to provide cryptocurrency support and people who wish to receive it.
+
+Donate Dreams does not guarantee that a recipient deserves a donation, that a recipient's story is accurate, or that donated funds will be used for any particular purpose.
+
+You are responsible for deciding whether to donate.
+
+1. Verify the Recipient
+
+Before sending cryptocurrency:
+
+CHECK THE WALLET ADDRESS.
+
+Make sure:
+
+the address is correct;
+the network is correct;
+the recipient is the person you intend to support; and
+the amount is correct.
+
+A valid wallet address can still belong to the wrong person.
+
+Donate Dreams' address validation can help identify malformed addresses, but it does not prove that a user owns the wallet address they entered.
+
+2. Transactions May Be Irreversible
+
+Cryptocurrency transactions are generally irreversible after confirmation.
+
+Donate Dreams generally cannot:
+
+cancel a blockchain transaction;
+reverse a transaction;
+retrieve funds;
+change the recipient;
+recover cryptocurrency sent to the wrong address; or
+recover cryptocurrency lost because of wallet compromise.
+3. No Guarantee of Recipient Identity
+
+A profile's username, story, biography, photographs, or other information does not necessarily establish the user's real-world identity.
+
+Users should independently evaluate information before sending money.
+
+4. Cryptocurrency Value
+
+Cryptocurrency prices can change rapidly.
+
+The value of a donation may increase or decrease after it is sent.
+
+Donate Dreams does not guarantee any particular value or return.
+
+5. Network Fees
+
+Blockchain transactions may involve network or transaction fees.
+
+These fees are determined by the applicable blockchain, wallet, or transaction mechanism and may change over time.
+
+6. Scams and Fraud
+
+Users should be cautious of:
+
+impersonation;
+fabricated stories;
+pressure to donate immediately;
+requests for private keys;
+requests for seed phrases;
+fake wallet addresses;
+phishing links;
+investment promises; and
+requests to send cryptocurrency to unrelated addresses.
+
+Donate Dreams will never require you to provide a private key or seed phrase in order to receive a donation.
+
+7. No Investment Opportunity
+
+Donations made through Donate Dreams are not investments.
+
+A donation should not be made with an expectation of:
+
+profit;
+repayment;
+interest;
+ownership;
+guaranteed returns; or
+financial appreciation.
+8. Tax and Legal Considerations
+
+Donate Dreams does not determine whether a particular cryptocurrency donation is:
+
+tax deductible;
+a charitable contribution;
+taxable income;
+a gift;
+subject to reporting requirements; or
+otherwise subject to a particular legal treatment.
+
+Users are responsible for obtaining their own tax or legal advice where appropriate.
+
+9. Donation Confirmation
+
+Before confirming a donation, users should verify the displayed:
+
+Recipient → Wallet Address → Network → Amount
+
+If any information appears incorrect, do not proceed.

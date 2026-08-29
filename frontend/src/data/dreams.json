@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dream-001",
+    "name": "Example Dreamer",
+    "wallet": "0x0000000000000000000000000000000000000000",
+    "bio": "I am working toward starting my own small business and building a better future.",
+    "goal": "5 ETH",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "dream-002",
+    "name": "Future Student",
+    "wallet": "0x0000000000000000000000000000000000000000",
+    "bio": "I am saving toward my education and hoping to create more opportunities for myself.",
+    "goal": "2 ETH",
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "dream-003",
+    "name": "Dream Builder",
+    "wallet": "0x0000000000000000000000000000000000000000",
+    "bio": "I have a dream I am working hard to achieve and every bit of support helps.",
+    "goal": "1 ETH",
+    "createdAt": "2026-08-27"
+  }
+]

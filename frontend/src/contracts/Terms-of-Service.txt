@@ -1,0 +1,246 @@
+Effective Date: August 27, 2026
+Last Updated: August 27, 2026
+
+Welcome to Donate Dreams (“Donate Dreams,” “we,” “us,” or “our”). These Terms of Service (“Terms”) govern your use of the Donate Dreams website, application, and related services (collectively, the “Service”).
+
+By creating an account, accessing the Service, submitting a profile, or otherwise using Donate Dreams, you agree to these Terms.
+
+If you do not agree to these Terms, do not use Donate Dreams.
+
+1. What Donate Dreams Is
+
+Donate Dreams is an online platform intended to allow users to:
+
+create a profile;
+share a personal story, goal, or request for support;
+provide a cryptocurrency wallet address;
+discover profiles created by other users; and
+voluntarily send cryptocurrency directly to a recipient's wallet.
+
+Donate Dreams is intended to provide a peer-to-peer connection platform.
+
+Unless explicitly stated otherwise, Donate Dreams does not take custody of, hold, store, or control cryptocurrency belonging to users.
+
+Cryptocurrency transactions occur through the applicable blockchain network and are not controlled by Donate Dreams.
+
+2. No Guarantee of Donations
+
+Creating a profile does not guarantee that you will receive donations.
+
+Donate Dreams does not promise that:
+
+anyone will donate to you;
+you will receive a particular amount;
+your goal will be reached;
+your profile will receive traffic;
+cryptocurrency prices will remain stable; or
+your use of the Service will result in any particular financial outcome.
+3. User Accounts
+
+You may be required to create an account to use certain features.
+
+You are responsible for:
+
+providing truthful information;
+maintaining the confidentiality of your password;
+maintaining access to your account;
+ensuring information associated with your profile is accurate; and
+all activity performed through your account.
+
+Do not share your password with other people.
+
+Donate Dreams will never ask you to provide a cryptocurrency seed phrase or private key.
+
+Never provide a seed phrase or private key to Donate Dreams.
+
+4. Wallet Addresses
+
+If you provide a cryptocurrency wallet address, you are responsible for ensuring that the address:
+
+belongs to you or is otherwise authorized for you to receive funds;
+is correctly entered; and
+is compatible with the cryptocurrency/network being used.
+
+Donate Dreams may perform basic format validation on wallet addresses. Format validation does not verify ownership of an address.
+
+If you enter another person's valid wallet address and someone sends cryptocurrency to that address, Donate Dreams is not responsible for the resulting transaction.
+
+5. Cryptocurrency Transactions
+
+Cryptocurrency transactions are generally irreversible once confirmed on a blockchain.
+
+Donate Dreams does not guarantee:
+
+transaction speed;
+transaction confirmation;
+blockchain availability;
+network fees;
+cryptocurrency value;
+transaction success;
+transaction reversals; or
+recovery of funds sent to an incorrect address.
+
+Always verify the recipient address and blockchain network before confirming a transaction.
+
+6. User-Generated Content
+
+You may submit information such as:
+
+usernames;
+biographies;
+stories;
+fundraising/support descriptions;
+wallet addresses;
+profile images; and
+other profile information.
+
+You retain ownership of content you create, but by submitting content to Donate Dreams, you grant Donate Dreams a non-exclusive license to display, reproduce, and technically process that content as necessary to operate the Service.
+
+You are responsible for the content you submit.
+
+You must not submit content that:
+
+is fraudulent or intentionally misleading;
+impersonates another person;
+violates another person's rights;
+contains malware;
+promotes illegal activity;
+contains another person's private information without authorization;
+intentionally deceives donors; or
+violates applicable law.
+7. Prohibited Activities
+
+You may not use Donate Dreams to:
+
+commit fraud;
+launder money;
+facilitate theft;
+impersonate another person;
+distribute malware;
+exploit or attack the Service;
+manipulate or falsify donation activity;
+use another person's wallet without authorization;
+engage in illegal fundraising;
+upload unlawful content;
+attempt to gain unauthorized access to accounts;
+interfere with blockchain networks; or
+otherwise violate applicable law.
+
+Donate Dreams may remove content or restrict accounts that violate these Terms.
+
+8. No Custody of Cryptocurrency
+
+Donate Dreams does not act as a cryptocurrency wallet or custodian merely because a user provides a public wallet address.
+
+Donate Dreams does not possess users' private keys or seed phrases.
+
+Users are responsible for the security of their own cryptocurrency wallets.
+
+9. Fees
+
+If Donate Dreams charges a platform fee, the applicable fee will be disclosed before the transaction requiring that fee.
+
+Donate Dreams will not intentionally conceal mandatory fees.
+
+Any fee description displayed to users should accurately describe the amount and purpose of the fee. Clear disclosure of fees is particularly important for online transactions.
+
+10. No Financial, Investment, Tax, or Legal Advice
+
+Donate Dreams does not provide:
+
+investment advice;
+financial advice;
+tax advice;
+legal advice; or
+professional fundraising advice.
+
+Users should independently determine whether a cryptocurrency transaction is appropriate for them.
+
+11. Cryptocurrency Risks
+
+Cryptocurrency involves significant risks, including:
+
+price volatility;
+loss of funds;
+network congestion;
+blockchain failures;
+smart-contract risks;
+wallet compromise;
+phishing;
+scams;
+incorrect addresses;
+incorrect blockchain networks; and
+regulatory changes.
+
+You use cryptocurrency at your own risk.
+
+12. Availability
+
+We may modify, suspend, or discontinue portions of Donate Dreams at any time.
+
+We do not guarantee that the Service will always be:
+
+available;
+uninterrupted;
+error-free;
+secure; or
+compatible with every device or browser.
+13. Account Termination
+
+We may suspend or terminate accounts that violate these Terms or that we reasonably believe create a security, legal, or operational risk.
+
+You may stop using Donate Dreams at any time.
+
+14. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, Donate Dreams is provided on an “AS IS” and “AS AVAILABLE” basis.
+
+We make no warranties that the Service will be uninterrupted, error-free, secure, or suitable for your particular purpose.
+
+15. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Donate Dreams and its operators will not be liable for indirect, incidental, special, consequential, exemplary, or similar damages arising from your use of the Service.
+
+This includes, where legally permitted, losses resulting from:
+
+cryptocurrency transactions;
+incorrect wallet addresses;
+wallet compromise;
+cryptocurrency price changes;
+blockchain failures;
+unauthorized account access;
+user-generated content;
+Service interruptions; or
+reliance on information provided through Donate Dreams.
+
+Nothing in these Terms is intended to exclude liability that cannot legally be excluded or limited.
+
+16. Indemnification
+
+To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Donate Dreams and its operators from claims, damages, liabilities, and expenses arising from:
+
+your violation of these Terms;
+your misuse of the Service;
+your submitted content;
+your cryptocurrency transactions; or
+your violation of another person's rights or applicable law.
+17. Changes to These Terms
+
+We may update these Terms from time to time.
+
+When we make material changes, we may provide notice through the Service.
+
+Your continued use of Donate Dreams after the updated Terms become effective constitutes acceptance of the updated Terms, to the extent permitted by applicable law.
+
+18. Governing Law
+
+These Terms are governed by the laws applicable to the jurisdiction in which Donate Dreams is legally operated, without regard to conflict-of-law principles, except where applicable law requires otherwise.
+
+[IMPORTANT: INSERT YOUR ACTUAL LEGAL JURISDICTION BEFORE LAUNCH.]
+
+19. Contact
+
+Questions regarding these Terms may be directed to:
+
+Donate Dreams
+Email: [INSERT CONTACT EMAIL]

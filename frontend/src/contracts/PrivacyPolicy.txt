@@ -1,0 +1,116 @@
+Effective Date: August 27, 2026
+Last Updated: August 27, 2026
+
+This Privacy Policy explains how Donate Dreams (“Donate Dreams,” “we,” “us,” or “our”) handles information when you use the Service.
+
+1. The Current V3 Architecture
+
+The current version of Donate Dreams is designed primarily as a client-side application.
+
+Certain account and profile information may be stored locally in your web browser using technologies such as localStorage.
+
+This means that information stored locally may remain on your device/browser and may not automatically be available on another device.
+
+The current V3 version does not operate as a centralized database for all user accounts.
+
+This policy should be updated if Donate Dreams later introduces a centralized backend.
+
+2. Information You Provide
+
+Depending on the features you use, Donate Dreams may allow you to enter:
+
+username;
+password;
+biography;
+personal story;
+donation goal;
+cryptocurrency wallet address;
+profile information; and
+other information you voluntarily submit.
+
+Do not submit sensitive personal information unless the Service specifically requests it.
+
+3. Cryptocurrency Wallet Addresses
+
+A public cryptocurrency wallet address may be displayed publicly as part of a user's profile.
+
+Never submit a private key or seed phrase.
+
+A public wallet address should be treated as public blockchain information.
+
+4. Information Stored Locally
+
+Information stored through browser-based storage may remain on your device until:
+
+you delete it;
+the application deletes it;
+your browser removes it; or
+you clear your browser's stored website data.
+
+Because this information is stored locally, clearing browser data can result in loss of access to locally stored account information.
+
+5. Information We Do Not Intentionally Collect
+
+In the current V3 architecture, Donate Dreams is not intentionally designed to collect information such as:
+
+Social Security numbers;
+government identification numbers;
+credit card numbers;
+cryptocurrency private keys;
+cryptocurrency seed phrases; or
+bank account credentials.
+
+Do not submit these types of information to Donate Dreams.
+
+6. Third-Party Services
+
+Donate Dreams may use third-party services, libraries, APIs, hosting providers, wallet providers, analytics services, or other technologies.
+
+If such services are added, this Privacy Policy should be updated to accurately describe:
+
+what information they receive;
+why they receive it;
+how long they retain it; and
+where applicable, how users can exercise privacy choices.
+7. Blockchain Information
+
+Blockchain transactions may create publicly visible records.
+
+Donate Dreams does not control blockchain networks.
+
+If you send cryptocurrency, information associated with that transaction may be publicly available through the relevant blockchain explorer.
+
+8. Security
+
+We take reasonable steps appropriate to the current design of the Service.
+
+However, no website, browser, computer, blockchain, or internet transmission can be guaranteed to be completely secure.
+
+Users are responsible for securing their own devices, passwords, and cryptocurrency wallets.
+
+9. Children's Privacy
+
+Donate Dreams is not intended to collect personal information from children in violation of applicable law.
+
+If you believe a child has provided personal information through the Service in a manner that violates applicable law, contact us at:
+
+[INSERT CONTACT EMAIL]
+
+10. Data Deletion
+
+Because the current V3 application may store information locally in your browser, you may be able to delete locally stored information through your browser's site-data settings.
+
+If Donate Dreams later introduces centralized account storage, this section will be updated to describe the applicable deletion process.
+
+11. Changes to This Policy
+
+We may update this Privacy Policy when the Service or our information practices change.
+
+We will update the effective date when this occurs.
+
+12. Contact
+
+Privacy questions may be sent to:
+
+Donate Dreams
+Email: [INSERT CONTACT EMAIL]
