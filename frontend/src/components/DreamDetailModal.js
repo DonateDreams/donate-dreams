@@ -250,8 +250,11 @@ const DreamDetailModal = ({
 
   }, [
     dream?.id,
+    dream?.currentAmount,
+    dream?.raised,
+    dream?.totalEarned,
     refresh,
-  ]);
+  ]);;
 
 
   /*

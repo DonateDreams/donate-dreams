@@ -118,8 +118,9 @@ const DreamCard = ({
 
     loadRaised();
 
-  }, [
+   }, [
     dream?.id,
+    loadRaised,
   ]);
 
 
@@ -180,6 +181,7 @@ const DreamCard = ({
 
   }, [
     dream?.id,
+    loadRaised,
   ]);
 
 
