@@ -51,11 +51,6 @@ const SupportCreator = ({
   ] = useState(null);
 
 
-  const [
-    refresh,
-    setRefresh,
-  ] = useState(0);
-
 
   const [
     dreams,
@@ -127,7 +122,7 @@ const SupportCreator = ({
 
     };
 
-  }, [refresh]);
+  }, []);
 
 
   /*

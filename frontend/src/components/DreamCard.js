@@ -1,4 +1,5 @@
 import React, {
+  useCallback,
   useEffect,
   useState,
 } from 'react';
@@ -57,7 +58,7 @@ const DreamCard = ({
    * ========================================
    */
 
-  const loadRaised =
+  const loadRaised = useCallback(
     async () => {
 
       if (!dream?.id) {
@@ -102,7 +103,9 @@ const DreamCard = ({
 
       }
 
-    };
+      },
+      [dream?.id]
+    );
 
 
   /*
