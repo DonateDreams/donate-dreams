@@ -16,6 +16,7 @@ import Home from './pages/Home';
 import Donate from './pages/Donate';
 import EarningHope from './pages/EarningHope';
 import SupportCreator from './pages/SupportCreator';
+import SupportDonateDreams from './pages/SupportDonateDreams';
 
 import Terms from './pages/Terms';
 import PrivacyPolicy from './pages/PrivacyPolicy';
@@ -137,6 +138,18 @@ const App = () => {
 
 
           {/* =================================
+              SUPPORT DONATE DREAMS
+          ================================= */}
+
+          <Route
+            path="/support"
+            element={
+              <SupportDonateDreams />
+            }
+          />
+
+
+          {/* =================================
               CREATE DREAM
           ================================= */}
 
@@ -209,3 +222,4 @@ const App = () => {
 
 
 export default App;
+

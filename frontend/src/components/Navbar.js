@@ -131,6 +131,16 @@ const Navbar = ({
           </Link>
 
 
+          <Link
+            to="/support"
+            onClick={
+              closeMobile
+            }
+          >
+            Support Us
+          </Link>
+
+
           <ThemeToggle
             theme={theme}
             onToggle={
