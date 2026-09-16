@@ -40,6 +40,11 @@ jobs:
         working-directory: frontend
         run: cp build/index.html build/404.html
 
+      # NEW STEP: Force-copy your sitemap file into the final deployment directory
+      - name: Copy Sitemap to build root
+        working-directory: frontend
+        run: cp public/sitemap.xml build/
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
